@@ -1,21 +1,16 @@
-<div align="center">
-
 # cryoxyl
-**cold APIs · loud models · late-night deploys**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7DF9FF&center=true&vCenter=true&width=720&height=48&lines=shipping+HLS+proxies+at+3am;training+churn+models+on+coffee;kotlin+by+day%2C+fastapi+by+night;if+it+streams%2C+I'll+wrap+an+API+around+it" alt="typing" />
+i have three modes and none of them are "finishing the last project":
+
+1. netflix-clone guy — that's [airtv](https://airtv.vercel.app) (miyoro)
+2. "farmers should have an app" guy — [kisan sethu](https://github.com/cryoxyl-beep/Kisan-Sethu)
+3. "what if this site had an api" guy — look at the repo list. you already know
+
+if a page has video on it i will try to wrap it. this is not a personality. it's a loop.
 
 [![stars](https://img.shields.io/github/stars/cryoxyl-beep?style=flat-square&label=stars&color=0ea5e9)](https://github.com/cryoxyl-beep?tab=repositories)
-[![followers](https://img.shields.io/github/followers/cryoxyl-beep?style=flat-square&label=followers&color=6366f1)](https://github.com/cryoxyl-beep?tab=followers)
 [![repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/cryoxyl-beep&query=public_repos&style=flat-square&label=public+repos&color=22d3ee)](https://github.com/cryoxyl-beep?tab=repositories)
 [![views](https://komarev.com/ghpvc/?username=cryoxyl-beep&label=profile+views&color=0891b2&style=flat-square)](https://github.com/cryoxyl-beep)
-
-</div>
-
----
-
-I build things that either **score users**, **track stuff**, or **pull streams**.  
-Python for the brains, TypeScript for the dashboards, Kotlin when it has to live on a phone.
 
 <table>
 <tr>
@@ -32,23 +27,27 @@ Python for the brains, TypeScript for the dashboards, Kotlin when it has to live
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cryoxyl-beep&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</p>
+## originals (can't blame the fork button)
 
----
+**[airtv](https://github.com/cryoxyl-beep/airtv)** — miyoro. movies / series / anime catalog, google login, too many `fix_*.cjs` files in the root because i would rather write a script than click the file. live: [airtv.vercel.app](https://airtv.vercel.app)
 
-## currently in the freezer
+**[ChrunAI](https://github.com/cryoxyl-beep/ChrunAI)** — streamlit + sklearn. csv in, "this customer is about to leave" out, gemini/groq writes the please-don't-go speech. 2 stars. that's the whole resume.
 
-| project | what it actually does |
-| :--- | :--- |
-| [**ChrunAI**](https://github.com/cryoxyl-beep/ChrunAI) | Streamlit + sklearn churn agent. CSV in, risk tiers out, Gemini/Groq writes the retention plan. |
-| [**Kisan-Sethu**](https://github.com/cryoxyl-beep/Kisan-Sethu) | Kotlin app for the field. Admin side lives in TypeScript. |
-| [**metago**](https://github.com/cryoxyl-beep/metago) | syllabus completion tracker so you stop lying to yourself about "I'll finish it later". |
-| [**trakit-test**](https://github.com/cryoxyl-beep/trakit-test) | habit / progress tracking experiments. |
-| [**proxyfiy**](https://github.com/cryoxyl-beep/proxyfiy) | when the stream URL is annoying, wrap it. |
+**[Kisan-Sethu](https://github.com/cryoxyl-beep/Kisan-Sethu)** — kotlin app for people who grow food. admin is typescript: [kisan-sethu-admin.vercel.app](https://kisan-sethu-admin.vercel.app). yes i went from anime apis to agriculture. no i will not explain.
 
----
+**[MockGo](https://github.com/cryoxyl-beep/MockGo)** — mock interviews. [mockgo.vercel.app](https://mockgo.vercel.app). built so i would practice. i practiced making the ui.
+
+**[metago](https://github.com/cryoxyl-beep/metago)** — syllabus tracker so i would study. i did not study. i made another tracker, [trakit](https://trakit-test.vercel.app) ("track ur shi", my words). two apps, still behind on the syllabus.
+
+**[Mooseic-](https://github.com/cryoxyl-beep/Mooseic-)** — music streaming. the dash in the repo name stays. i've accepted it.
+
+**[proxyfiy](https://github.com/cryoxyl-beep/proxyfiy)** / **[pahe-api](https://github.com/cryoxyl-beep/pahe-api)** — m3u8 is being weird? wrap it. [pahe-api](https://pahe-api-nu.vercel.app) is the one that's actually deployed.
+
+also `TRAILERS`, `trailers-api`, `anime-trailers`. they play trailers. i named them like i was getting paid per synonym.
+
+## the fork pile
+
+anilist id in, stream url out. i have done this to miruro, animepahe, hianime, allmanga, animetsu, moviebox, consumet, and whatever i found at 2am. i am not listing them all. scroll. it's a lifestyle.
 
 ## stack I actually touch
 
@@ -66,11 +65,3 @@ Python for the brains, TypeScript for the dashboards, Kotlin when it has to live
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
 </p>
-
----
-
-<div align="center">
-
-**ice stays quiet. the commit graph doesn't.**
-
-</div>
