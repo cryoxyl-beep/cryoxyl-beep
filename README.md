@@ -1,23 +1,17 @@
 <div align="center">
 
-**cryoxyl**
-
-</div>
-
 <pre>
-  ────────────────────────────────────────────────
-    catalog      <a href="https://github.com/cryoxyl-beep/airtv">airtv</a>              miyoro
-    ml           <a href="https://github.com/cryoxyl-beep/ChrunAI">chrunai</a>            streamlit
-    field        <a href="https://github.com/cryoxyl-beep/Kisan-Sethu">kisan-sethu</a>        kotlin
-    admin        <a href="https://github.com/cryoxyl-beep/Kisan-Sethu-Admin">kisan-sethu-admin</a>
-    interview    <a href="https://github.com/cryoxyl-beep/MockGo">mockgo</a>
-    study        <a href="https://github.com/cryoxyl-beep/metago">metago</a>  ·  <a href="https://github.com/cryoxyl-beep/trakit-test">trakit</a>
-    audio        <a href="https://github.com/cryoxyl-beep/Mooseic-">mooseic</a>
-    proxy        <a href="https://github.com/cryoxyl-beep/proxyfiy">proxyfiy</a>  ·  <a href="https://github.com/cryoxyl-beep/pahe-api">pahe-api</a>
-  ────────────────────────────────────────────────
+    catalog • ml • android
+    python • typescript • kotlin
+
+    <a href="https://github.com/cryoxyl-beep/airtv">airtv</a> • <a href="https://github.com/cryoxyl-beep/ChrunAI">chrunai</a> • <a href="https://github.com/cryoxyl-beep/Kisan-Sethu">kisan-sethu</a>
+    <a href="https://github.com/cryoxyl-beep/MockGo">mockgo</a> • <a href="https://github.com/cryoxyl-beep/metago">metago</a> • <a href="https://github.com/cryoxyl-beep/trakit-test">trakit</a>
+    <a href="https://github.com/cryoxyl-beep/Mooseic-">mooseic</a> • <a href="https://github.com/cryoxyl-beep/proxyfiy">proxyfiy</a> • <a href="https://github.com/cryoxyl-beep/pahe-api">pahe-api</a>
 </pre>
 
-## stack I actually touch
+<br>
+<img src="./assets/fox.gif" height="40" alt="" />
+<br><br>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,3 +27,5 @@
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" alt="Groq" />
 </p>
+
+</div>
